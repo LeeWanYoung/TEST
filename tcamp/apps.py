@@ -5,4 +5,5 @@ class TcampConfig(AppConfig):
     name = 'tcamp'
     name = 'tcamp'
     name = 'tcamp'    
+    name = 'tcamp'    
         
